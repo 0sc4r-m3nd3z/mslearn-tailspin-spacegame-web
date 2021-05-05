@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/oscarmendez0000/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/0sc4r-m3nd3z.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/oscarmendez0000/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
